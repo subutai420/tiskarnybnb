@@ -155,7 +155,7 @@ export function HomePage({ onNavigate }: HomePageProps) {
       <section className="py-12 bg-white">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-center">
           <img
-            src="/src/assets/modernizacni_fond.png"
+            src="/modernizacni_fond.png"
             alt="Instalace FVE – Tiskárny BNB – Modernizační fond"
             className="w-full max-w-xl rounded-lg shadow-md"
           />
